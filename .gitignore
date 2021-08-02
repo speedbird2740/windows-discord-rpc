@@ -1,0 +1,13 @@
+
+windows-discord-rpc/obj/windows-discord-rpc.csproj.nuget.g.props
+windows-discord-rpc/obj/windows-discord-rpc.csproj.nuget.dgspec.json
+windows-discord-rpc/obj/project.nuget.cache
+windows-discord-rpc/obj/project.assets.json
+*.cache
+*.v2
+.vs/windows-discord-rpc/v16/.suo
+windows-discord-rpc/bin/*
+windows-discord-rpc/obj/Debug/net5.0/apphost.exe
+windows-discord-rpc/obj/Debug/net5.0/windows-discord-rpc.csproj.CopyComplete
+windows-discord-rpc/obj/Debug/net5.0/windows-discord-rpc.csproj.FileListAbsolute.txt
+windows-discord-rpc/obj/Debug/net5.0/windows-discord-rpc.pdb
